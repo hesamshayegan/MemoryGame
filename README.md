@@ -1,2 +1,2 @@
 # MemoryGame
-## Springboard's exercise - DOM Manipulation Unit
+### Springboard's exercise - DOM Manipulation Unit
